@@ -3,5 +3,5 @@ This repository contains small projects of different type that Ive completed. I 
 
 So far:
 
-1- Hotel Cancellations
+1- Hotel Cancellations Predictions (my first project)
 
