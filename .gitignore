@@ -1,10 +1,9 @@
 # Ignore all .idea folders
 .idea/ 
 
-# Ignore all not_github folders
+# Ignore all folders and files inside the not_github folder
 not_github/
 
 # Folders to delete temporarily
-Car Price Prediction/
 EpiGenetics/
 NLP_projects/
