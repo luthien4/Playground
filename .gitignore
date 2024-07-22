@@ -3,3 +3,8 @@
 
 # Ignore all not_github folders
 not_github/
+
+# Folders to delete temporarily
+Car Price Prediction/
+EpiGenetics/
+NLP_projects/
